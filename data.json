@@ -1,0 +1,270 @@
+{
+  "company": "Shift 9",
+  "assets": [
+    {
+      "id": "logo-shift9-main",
+      "category": "company-logo",
+      "name": "Shift 9 메인 로고",
+      "tags": ["shift9", "로고", "메인", "CI", "대표"],
+      "updatedAt": "2026-03-28",
+      "files": [
+        { "format": "SVG", "path": "assets/logos/company/shift9-logo-main.svg" },
+        { "format": "PNG", "path": "assets/logos/company/shift9-logo-main.png" },
+        { "format": "PDF", "path": "assets/logos/company/shift9-logo-main.pdf" }
+      ],
+      "thumbnail": "assets/logos/company/shift9-logo-main.svg",
+      "description": "기본 가로형 로고. 밝은 배경에서 사용하세요."
+    },
+    {
+      "id": "logo-shift9-dark",
+      "category": "company-logo",
+      "name": "Shift 9 다크 로고",
+      "tags": ["shift9", "로고", "다크", "흰색", "역전"],
+      "updatedAt": "2026-03-28",
+      "files": [
+        { "format": "SVG", "path": "assets/logos/company/shift9-logo-dark.svg" },
+        { "format": "PNG", "path": "assets/logos/company/shift9-logo-dark.png" }
+      ],
+      "thumbnail": "assets/logos/company/shift9-logo-dark.svg",
+      "description": "어두운 배경 전용 흰색 로고."
+    },
+    {
+      "id": "logo-shift9-symbol",
+      "category": "company-logo",
+      "name": "Shift 9 심볼 마크",
+      "tags": ["shift9", "심볼", "아이콘", "마크"],
+      "updatedAt": "2026-01-15",
+      "files": [
+        { "format": "SVG", "path": "assets/logos/company/shift9-symbol.svg" },
+        { "format": "PNG", "path": "assets/logos/company/shift9-symbol.png" }
+      ],
+      "thumbnail": "assets/logos/company/shift9-symbol.svg",
+      "description": "공간이 좁은 영역에서 텍스트 없이 사용하는 심볼."
+    },
+    {
+      "id": "logo-doorian-main",
+      "category": "service-logo",
+      "brand": "Doorian",
+      "name": "Doorian 메인 로고",
+      "tags": ["도리안", "doorian", "서비스", "로고", "BI"],
+      "updatedAt": "2026-04-01",
+      "files": [
+        { "format": "SVG", "path": "assets/logos/services/doorian/doorian-logo-main.svg" },
+        { "format": "PNG", "path": "assets/logos/services/doorian/doorian-logo-main.png" }
+      ],
+      "thumbnail": "assets/logos/services/doorian/doorian-logo-main.svg",
+      "description": "Doorian 공식 메인 로고."
+    },
+    {
+      "id": "logo-doorian-dark",
+      "category": "service-logo",
+      "brand": "Doorian",
+      "name": "Doorian 다크 로고",
+      "tags": ["도리안", "doorian", "서비스", "로고", "다크"],
+      "updatedAt": "2026-04-01",
+      "files": [
+        { "format": "SVG", "path": "assets/logos/services/doorian/doorian-logo-dark.svg" },
+        { "format": "PNG", "path": "assets/logos/services/doorian/doorian-logo-dark.png" }
+      ],
+      "thumbnail": "assets/logos/services/doorian/doorian-logo-dark.svg",
+      "description": "어두운 배경 전용 Doorian 흰색 로고."
+    },
+    {
+      "id": "logo-doorian-symbol",
+      "category": "service-logo",
+      "brand": "Doorian",
+      "name": "Doorian 심볼 마크",
+      "tags": ["도리안", "doorian", "심볼", "아이콘"],
+      "updatedAt": "2026-04-01",
+      "files": [
+        { "format": "SVG", "path": "assets/logos/services/doorian/doorian-symbol.svg" },
+        { "format": "PNG", "path": "assets/logos/services/doorian/doorian-symbol.png" }
+      ],
+      "thumbnail": "assets/logos/services/doorian/doorian-symbol.svg",
+      "description": "공간이 좁은 영역에서 사용하는 Doorian 심볼."
+    },
+    {
+      "id": "color-ci-primary",
+      "category": "color",
+      "colorGroup": "CI",
+      "name": "CI Primary",
+      "tags": ["CI", "프라이머리", "블루", "포인트", "버튼"],
+      "updatedAt": "2026-01-01",
+      "hex": "#3944FF",
+      "rgb": "57, 68, 255",
+      "cmyk": "78, 73, 0, 0",
+      "usage": "버튼, 링크, 포커스 상태, 강조 텍스트"
+    },
+    {
+      "id": "color-ci-black",
+      "category": "color",
+      "colorGroup": "CI",
+      "name": "CI Black",
+      "tags": ["CI", "블랙", "텍스트", "검정"],
+      "updatedAt": "2026-01-01",
+      "hex": "#0A0A0A",
+      "rgb": "10, 10, 10",
+      "cmyk": "0, 0, 0, 96",
+      "usage": "주요 본문 텍스트, 헤딩"
+    },
+    {
+      "id": "color-ci-gray",
+      "category": "color",
+      "colorGroup": "CI",
+      "name": "CI Gray",
+      "tags": ["CI", "그레이", "텍스트", "보조"],
+      "updatedAt": "2026-01-01",
+      "hex": "#525252",
+      "rgb": "82, 82, 82",
+      "cmyk": "0, 0, 0, 68",
+      "usage": "보조 설명, 캡션, 메타 정보"
+    },
+    {
+      "id": "color-ci-offwhite",
+      "category": "color",
+      "colorGroup": "CI",
+      "name": "CI Off-White",
+      "tags": ["CI", "오프화이트", "배경", "섹션"],
+      "updatedAt": "2026-01-01",
+      "hex": "#FAFAFA",
+      "rgb": "250, 250, 250",
+      "cmyk": "0, 0, 0, 2",
+      "usage": "섹션 구분 배경, 카드 배경"
+    },
+    {
+      "id": "color-bi-doorian-primary",
+      "category": "color",
+      "colorGroup": "BI",
+      "brand": "Doorian",
+      "name": "Doorian Primary",
+      "tags": ["BI", "도리안", "doorian", "프라이머리"],
+      "updatedAt": "2026-04-01",
+      "hex": "#1A1A2E",
+      "rgb": "26, 26, 46",
+      "cmyk": "43, 43, 0, 82",
+      "usage": "Doorian 핵심 브랜드 컬러. 헤딩, 강조 영역"
+    },
+    {
+      "id": "color-bi-doorian-accent",
+      "category": "color",
+      "colorGroup": "BI",
+      "brand": "Doorian",
+      "name": "Doorian Accent",
+      "tags": ["BI", "도리안", "doorian", "액센트", "포인트"],
+      "updatedAt": "2026-04-01",
+      "hex": "#7C3AED",
+      "rgb": "124, 58, 237",
+      "cmyk": "48, 76, 0, 7",
+      "usage": "Doorian 포인트 컬러. CTA 버튼, 하이라이트"
+    },
+    {
+      "id": "color-bi-doorian-light",
+      "category": "color",
+      "colorGroup": "BI",
+      "brand": "Doorian",
+      "name": "Doorian Light",
+      "tags": ["BI", "도리안", "doorian", "라이트", "배경"],
+      "updatedAt": "2026-04-01",
+      "hex": "#EDE9FE",
+      "rgb": "237, 233, 254",
+      "cmyk": "7, 8, 0, 0",
+      "usage": "Doorian 배경 강조, 뱃지, 라벨"
+    },
+    {
+      "id": "font-pretendard",
+      "category": "typography",
+      "name": "Pretendard",
+      "tags": ["프리텐다드", "한글", "고딕", "웹폰트"],
+      "updatedAt": "2026-03-15",
+      "files": [
+        { "format": "ZIP", "path": "assets/fonts/pretendard.zip" }
+      ],
+      "sampleText": "가나다라 ABCabc 123",
+      "weights": ["400 Regular", "500 Medium", "600 SemiBold", "700 Bold"],
+      "license": "SIL Open Font License 1.1",
+      "licenseUrl": "https://github.com/orioncactus/pretendard",
+      "description": "사내 표준 한국어/영문 본문 폰트. 웹·앱·인쇄 모두 사용 가능."
+    },
+    {
+      "id": "font-inter",
+      "category": "typography",
+      "name": "Inter",
+      "tags": ["인터", "영문", "고딕", "UI폰트"],
+      "updatedAt": "2026-01-10",
+      "files": [
+        { "format": "ZIP", "path": "assets/fonts/inter.zip" }
+      ],
+      "sampleText": "ABCabc 123 Shift 9",
+      "weights": ["400 Regular", "500 Medium", "600 SemiBold", "700 Bold", "800 ExtraBold"],
+      "license": "SIL Open Font License 1.1",
+      "licenseUrl": "https://rsms.me/inter/",
+      "description": "영문 전용 UI 폰트. 숫자, 코드 등 영문 콘텐츠에 사용."
+    },
+    {
+      "id": "guide-ci",
+      "category": "guide",
+      "name": "Shift 9 CI 가이드",
+      "tags": ["가이드", "CI", "shift9", "아이덴티티"],
+      "updatedAt": "2026-04-01",
+      "files": [
+        { "format": "PDF", "path": "assets/guides/shift9-ci-guide.pdf" }
+      ],
+      "thumbnail": null,
+      "description": "Shift 9 기업 아이덴티티 가이드. 로고, CI 컬러, 타이포그래피 사용 원칙 정의."
+    },
+    {
+      "id": "guide-doorian-bi",
+      "category": "guide",
+      "name": "Doorian BI 가이드",
+      "tags": ["가이드", "BI", "도리안", "doorian", "브랜드"],
+      "updatedAt": "2026-04-06",
+      "files": [
+        { "format": "PDF", "path": "assets/guides/doorian-bi-guide.pdf" }
+      ],
+      "thumbnail": null,
+      "description": "Doorian 브랜드 아이덴티티 가이드. BI 컬러, 로고, 톤앤매너 정의."
+    },
+    {
+      "id": "guide-ui-component",
+      "category": "guide",
+      "name": "UI 컴포넌트 가이드",
+      "tags": ["UI", "컴포넌트", "가이드", "피그마"],
+      "updatedAt": "2026-03-20",
+      "files": [
+        { "format": "PDF", "path": "assets/guides/ui-component-guide.pdf" }
+      ],
+      "thumbnail": null,
+      "description": "버튼, 입력창, 카드 등 공통 UI 컴포넌트의 스펙과 사용 원칙 정의서."
+    }
+  ],
+  "logoGuidelines": {
+    "dos": [
+      {
+        "image": null,
+        "description": "충분한 여백(최소 로고 높이의 1/2)을 확보하세요."
+      },
+      {
+        "image": null,
+        "description": "흰색 또는 밝은 단색 배경 위에 기본 로고를 사용하세요."
+      },
+      {
+        "image": null,
+        "description": "어두운 배경에는 반드시 다크 버전(흰색) 로고를 사용하세요."
+      }
+    ],
+    "donts": [
+      {
+        "image": null,
+        "description": "로고를 임의로 변형하거나 색상을 바꾸지 마세요."
+      },
+      {
+        "image": null,
+        "description": "로고에 그림자, 외곽선 등 시각 효과를 추가하지 마세요."
+      },
+      {
+        "image": null,
+        "description": "최소 크기(24px 높이) 미만으로 사용하지 마세요."
+      }
+    ]
+  }
+}

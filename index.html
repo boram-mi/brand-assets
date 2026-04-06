@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shift 9 Brand Assets</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container">
+      <div class="header-inner">
+        <div class="site-logo">
+          <span class="logo-mark"></span>
+          <span class="logo-text">Shift 9 Brand Assets</span>
+        </div>
+        <p class="header-desc">로고, 컬러, 폰트, 가이드를 셀프로 다운로드하세요.</p>
+      </div>
+    </div>
+  </header>
+
+  <!-- Search & Filter -->
+  <div class="toolbar">
+    <div class="container">
+      <div class="toolbar-inner">
+        <div class="search-wrap">
+          <svg class="search-icon" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <circle cx="7" cy="7" r="5" stroke="#A3A3A3" stroke-width="1.5"/>
+            <path d="M11 11L14 14" stroke="#A3A3A3" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+          <input
+            type="search"
+            id="searchInput"
+            class="search-input"
+            placeholder="에셋 이름 또는 태그 검색…"
+            autocomplete="off"
+          />
+        </div>
+        <div class="filter-chips" id="filterChips" role="group" aria-label="카테고리 필터">
+          <button class="chip active" data-category="all">전체</button>
+          <button class="chip" data-category="company-logo">회사 로고</button>
+          <button class="chip" data-category="service-logo">서비스 로고</button>
+          <button class="chip" data-category="color">브랜드 컬러</button>
+          <button class="chip" data-category="typography">타이포그래피</button>
+          <button class="chip" data-category="guide">가이드 문서</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <main class="main-content">
+    <div class="container">
+
+      <!-- Results count -->
+      <div class="results-bar" id="resultsBar">
+        <span id="resultsCount"></span>
+      </div>
+
+      <!-- Asset Grid -->
+      <div class="asset-grid" id="assetGrid">
+        <!-- Cards injected by script.js -->
+      </div>
+
+      <!-- Empty state -->
+      <div class="empty-state hidden" id="emptyState">
+        <div class="empty-icon" aria-hidden="true">
+          <svg width="40" height="40" viewBox="0 0 40 40" fill="none">
+            <circle cx="20" cy="20" r="19" stroke="#EEEEEE" stroke-width="2"/>
+            <path d="M14 20h12M20 14v12" stroke="#CCCCCC" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <p class="empty-title">검색 결과가 없습니다</p>
+        <p class="empty-desc">다른 검색어나 카테고리를 시도해보세요.</p>
+      </div>
+
+      <!-- Logo Guidelines Section -->
+      <section class="guidelines-section" id="guidelinesSection">
+        <div class="section-header">
+          <h2 class="section-title">로고 사용 가이드라인</h2>
+          <p class="section-desc">올바른 로고 사용을 위한 Do / Don't 원칙입니다.</p>
+        </div>
+        <div class="guidelines-grid">
+          <div class="guideline-block">
+            <div class="guideline-label do">
+              <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+                <path d="M2.5 7L5.5 10L11.5 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+              Do
+            </div>
+            <ul class="guideline-list" id="dosList"></ul>
+          </div>
+          <div class="guideline-block">
+            <div class="guideline-label dont">
+              <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+                <path d="M3 3L11 11M11 3L3 11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+              </svg>
+              Don't
+            </div>
+            <ul class="guideline-list" id="dontsList"></ul>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <p>디자인팀에 문의: <a href="mailto:design@shift9.co">design@shift9.co</a></p>
+    </div>
+  </footer>
+
+  <!-- Toast -->
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
