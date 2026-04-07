@@ -4,7 +4,7 @@
     {
       "id": "logo-shift9-main",
       "category": "company-logo",
-      "name": "Shift 9 메인 로고",
+      "name": "Shift 9 로고 가로",
       "tags": [
         "shift9",
         "로고",
@@ -12,7 +12,7 @@
         "CI",
         "대표"
       ],
-      "updatedAt": "2026-03-28",
+      "updatedAt": "2026-04-07",
       "files": [
         {
           "format": "SVG",
@@ -25,9 +25,17 @@
         {
           "format": "PDF",
           "path": "assets/logos/company/shift9-logo-main.pdf"
+        },
+        {
+          "format": "PNG",
+          "path": "assets/logos/company/shift9-logo-main-01.png"
+        },
+        {
+          "format": "SVG",
+          "path": "assets/logos/company/shift9-logo-main-01.svg"
         }
       ],
-      "thumbnail": "assets/logos/company/shift9-logo-main.svg",
+      "thumbnail": "assets/thumbnails/shift9-logo-main-01-thumb.jpg",
       "description": "기본 가로형 로고. 밝은 배경에서 사용하세요."
     },
     {
@@ -242,44 +250,6 @@
       "rgb": "26, 26, 46",
       "cmyk": "43, 43, 0, 82",
       "usage": "Doorian 핵심 브랜드 컬러. 헤딩, 강조 영역"
-    },
-    {
-      "id": "color-bi-doorian-accent",
-      "category": "color",
-      "colorGroup": "BI",
-      "brand": "Doorian",
-      "name": "Doorian Accent",
-      "tags": [
-        "BI",
-        "도리안",
-        "doorian",
-        "액센트",
-        "포인트"
-      ],
-      "updatedAt": "2026-04-01",
-      "hex": "#7C3AED",
-      "rgb": "124, 58, 237",
-      "cmyk": "48, 76, 0, 7",
-      "usage": "Doorian 포인트 컬러. CTA 버튼, 하이라이트"
-    },
-    {
-      "id": "color-bi-doorian-light",
-      "category": "color",
-      "colorGroup": "BI",
-      "brand": "Doorian",
-      "name": "Doorian Light",
-      "tags": [
-        "BI",
-        "도리안",
-        "doorian",
-        "라이트",
-        "배경"
-      ],
-      "updatedAt": "2026-04-01",
-      "hex": "#EDE9FE",
-      "rgb": "237, 233, 254",
-      "cmyk": "7, 8, 0, 0",
-      "usage": "Doorian 배경 강조, 뱃지, 라벨"
     },
     {
       "id": "font-pretendard",
