@@ -1,0 +1,7 @@
+node_modules/
+admin/
+server.js
+package.json
+package-lock.json
+history.json
+.DS_Store
