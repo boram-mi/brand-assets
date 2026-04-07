@@ -15,18 +15,6 @@
       "updatedAt": "2026-04-07",
       "files": [
         {
-          "format": "SVG",
-          "path": "assets/logos/company/shift9-logo-main.svg"
-        },
-        {
-          "format": "PNG",
-          "path": "assets/logos/company/shift9-logo-main.png"
-        },
-        {
-          "format": "PDF",
-          "path": "assets/logos/company/shift9-logo-main.pdf"
-        },
-        {
           "format": "PNG",
           "path": "assets/logos/company/shift9-logo-main-01.png"
         },
@@ -35,56 +23,55 @@
           "path": "assets/logos/company/shift9-logo-main-01.svg"
         }
       ],
-      "thumbnail": "assets/thumbnails/shift9-logo-main-01-thumb.jpg",
+      "thumbnail": "assets/thumbnails/shift9-logo-main-01-thumb-1.jpg",
       "description": "기본 가로형 로고. 밝은 배경에서 사용하세요."
     },
     {
       "id": "logo-shift9-dark",
       "category": "company-logo",
-      "name": "Shift 9 다크 로고",
+      "name": "Shift 9 black 로고 가로",
       "tags": [
         "shift9",
         "로고",
-        "다크",
-        "흰색",
-        "역전"
+        "black",
+        "단색"
       ],
-      "updatedAt": "2026-03-28",
+      "updatedAt": "2026-04-07",
       "files": [
         {
-          "format": "SVG",
-          "path": "assets/logos/company/shift9-logo-dark.svg"
+          "format": "PNG",
+          "path": "assets/logos/company/shift9-logo-b-01.png"
         },
         {
-          "format": "PNG",
-          "path": "assets/logos/company/shift9-logo-dark.png"
+          "format": "SVG",
+          "path": "assets/logos/company/shift9-logo-b-01.svg"
         }
       ],
-      "thumbnail": "assets/logos/company/shift9-logo-dark.svg",
-      "description": "어두운 배경 전용 흰색 로고."
+      "thumbnail": "assets/thumbnails/shift9-logo-b-01-thumb.jpg",
+      "description": "black 단색 로고"
     },
     {
       "id": "logo-shift9-symbol",
       "category": "company-logo",
-      "name": "Shift 9 심볼 마크",
+      "name": "Shift 9 black 심볼 마크",
       "tags": [
         "shift9",
         "심볼",
         "아이콘",
         "마크"
       ],
-      "updatedAt": "2026-01-15",
+      "updatedAt": "2026-04-07",
       "files": [
         {
-          "format": "SVG",
-          "path": "assets/logos/company/shift9-symbol.svg"
+          "format": "PNG",
+          "path": "assets/logos/company/shift9-logo-b-symbol.png"
         },
         {
-          "format": "PNG",
-          "path": "assets/logos/company/shift9-symbol.png"
+          "format": "SVG",
+          "path": "assets/logos/company/shift9-logo-b-symbol.svg"
         }
       ],
-      "thumbnail": "assets/logos/company/shift9-symbol.svg",
+      "thumbnail": "assets/thumbnails/shift9-logo-b-symbol-thumb.jpg",
       "description": "공간이 좁은 영역에서 텍스트 없이 사용하는 심볼."
     },
     {
@@ -398,6 +385,48 @@
       "rgb": "106, 112, 255",
       "cmyk": "60,57,0,0",
       "usage": ""
+    },
+    {
+      "id": "logo-shift-9",
+      "category": "company-logo",
+      "name": "Shift 9 로고 세로",
+      "tags": [
+        "CI"
+      ],
+      "updatedAt": "2026-04-07",
+      "description": "",
+      "files": [
+        {
+          "format": "PNG",
+          "path": "assets/logos/company/shift9-logo-main-02.png"
+        },
+        {
+          "format": "SVG",
+          "path": "assets/logos/company/shift9-logo-main-02.svg"
+        }
+      ],
+      "thumbnail": "assets/thumbnails/shift9-logo-main-02-thumb.jpg"
+    },
+    {
+      "id": "logo-shift-9-black",
+      "category": "company-logo",
+      "name": "Shift 9 black 로고 세로",
+      "tags": [
+        "CI"
+      ],
+      "updatedAt": "2026-04-07",
+      "description": "black,CI,세로,단색",
+      "files": [
+        {
+          "format": "PNG",
+          "path": "assets/logos/company/shift9-logo-b-02.png"
+        },
+        {
+          "format": "SVG",
+          "path": "assets/logos/company/shift9-logo-b-02.svg"
+        }
+      ],
+      "thumbnail": "assets/thumbnails/shift9-logo-b-02-thumb.jpg"
     }
   ],
   "logoGuidelines": {
