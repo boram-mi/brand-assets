@@ -412,6 +412,22 @@
       "rgb": "65, 221, 255",
       "cmyk": "52,0,0,0",
       "usage": ""
+    },
+    {
+      "id": "color-sub-point-2",
+      "category": "color",
+      "name": "sub point-2",
+      "tags": [
+        "CI"
+      ],
+      "updatedAt": "2026-04-07",
+      "description": "",
+      "brand": "shift9",
+      "colorGroup": "CI",
+      "hex": "#6A70FF",
+      "rgb": "106, 112, 255",
+      "cmyk": "60,57,0,0",
+      "usage": ""
     }
   ],
   "logoGuidelines": {
