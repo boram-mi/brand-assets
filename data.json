@@ -56,9 +56,7 @@
       "name": "Shift 9 black 심볼 마크",
       "tags": [
         "shift9",
-        "심볼",
-        "아이콘",
-        "마크"
+        "심볼"
       ],
       "updatedAt": "2026-04-07",
       "files": [
@@ -391,6 +389,9 @@
       "category": "company-logo",
       "name": "Shift 9 로고 세로",
       "tags": [
+        "shift9",
+        "로고",
+        "메인",
         "CI"
       ],
       "updatedAt": "2026-04-07",
@@ -412,10 +413,12 @@
       "category": "company-logo",
       "name": "Shift 9 black 로고 세로",
       "tags": [
-        "CI"
+        "shift9",
+        "로고",
+        "black"
       ],
       "updatedAt": "2026-04-07",
-      "description": "black,CI,세로,단색",
+      "description": "",
       "files": [
         {
           "format": "PNG",
@@ -427,6 +430,165 @@
         }
       ],
       "thumbnail": "assets/thumbnails/shift9-logo-b-02-thumb.jpg"
+    },
+    {
+      "id": "logo-shift-9-none-gradient",
+      "category": "company-logo",
+      "name": "Shift 9 그라데이션X 로고 가로",
+      "tags": [
+        "shift9",
+        "로고",
+        "가로"
+      ],
+      "updatedAt": "2026-04-07",
+      "description": "그라디언트가 적용되지 않은 로고 형태",
+      "files": [
+        {
+          "format": "SVG",
+          "path": "assets/logos/company/shift9-logo-none-01.svg"
+        },
+        {
+          "format": "PNG",
+          "path": "assets/logos/company/shift9-logo-none-01.png"
+        }
+      ],
+      "thumbnail": "assets/logos/company/shift9-logo-none-01.svg"
+    },
+    {
+      "id": "logo-shift-9-white",
+      "category": "company-logo",
+      "name": "Shift 9 white 로고 가로",
+      "tags": [
+        "shift9",
+        "로고",
+        "white"
+      ],
+      "updatedAt": "2026-04-07",
+      "description": "",
+      "files": [
+        {
+          "format": "SVG",
+          "path": "assets/logos/company/shift9-logo-w-01.svg"
+        },
+        {
+          "format": "PNG",
+          "path": "assets/logos/company/shift9-logo-w-01.png"
+        }
+      ],
+      "thumbnail": "assets/logos/company/shift9-logo-w-01.svg"
+    },
+    {
+      "id": "logo-shift-9-white-1",
+      "category": "company-logo",
+      "name": "Shift 9 white 로고 세로",
+      "tags": [
+        "shift9",
+        "로고",
+        "white"
+      ],
+      "updatedAt": "2026-04-07",
+      "description": "",
+      "files": [
+        {
+          "format": "SVG",
+          "path": "assets/logos/company/shift9-logo-w-02.svg"
+        },
+        {
+          "format": "PNG",
+          "path": "assets/logos/company/shift9-logo-w-02.png"
+        }
+      ],
+      "thumbnail": "assets/logos/company/shift9-logo-w-02.svg"
+    },
+    {
+      "id": "logo-shift-9-white-2",
+      "category": "company-logo",
+      "name": "Shift 9 white 심볼 마크",
+      "tags": [
+        "shift9",
+        "심볼",
+        "white"
+      ],
+      "updatedAt": "2026-04-07",
+      "description": "",
+      "files": [
+        {
+          "format": "SVG",
+          "path": "assets/logos/company/shift9-logo-w-symbol.svg"
+        },
+        {
+          "format": "PNG",
+          "path": "assets/logos/company/shift9-logo-w-symbol-2x.png"
+        }
+      ],
+      "thumbnail": "assets/logos/company/shift9-logo-w-symbol.svg"
+    },
+    {
+      "id": "logo-shift-9-x",
+      "category": "company-logo",
+      "name": "Shift 9 그라데이션X 로고 세로",
+      "tags": [
+        "shift9",
+        "로고",
+        "세로"
+      ],
+      "updatedAt": "2026-04-07",
+      "description": "",
+      "files": [
+        {
+          "format": "SVG",
+          "path": "assets/logos/company/shift9-logo-none-02.svg"
+        },
+        {
+          "format": "PNG",
+          "path": "assets/logos/company/shift9-logo-none-02.png"
+        }
+      ],
+      "thumbnail": "assets/logos/company/shift9-logo-none-02.svg"
+    },
+    {
+      "id": "logo-shift-9-x-1",
+      "category": "company-logo",
+      "name": "Shift 9 그라데이션X 심볼 마크",
+      "tags": [
+        "shift9",
+        "심볼"
+      ],
+      "updatedAt": "2026-04-07",
+      "description": "",
+      "files": [
+        {
+          "format": "SVG",
+          "path": "assets/logos/company/shift9-logo-none-symbol.svg"
+        },
+        {
+          "format": "PNG",
+          "path": "assets/logos/company/shift9-logo-none-symbol.png"
+        }
+      ],
+      "thumbnail": "assets/logos/company/shift9-logo-none-symbol.svg"
+    },
+    {
+      "id": "logo-shift-9-1",
+      "category": "company-logo",
+      "name": "Shift 9 심볼 마크",
+      "tags": [
+        "shift9",
+        "심볼"
+      ],
+      "updatedAt": "2026-04-07",
+      "description": "",
+      "files": [
+        {
+          "format": "SVG",
+          "path": "assets/logos/company/shift9-logo-main-symbol.svg"
+        },
+        {
+          "format": "PNG",
+          "path": "assets/logos/company/shift9-logo-main-symbol.png"
+        }
+      ],
+      "thumbnail": "assets/logos/company/shift9-logo-main-symbol.svg"
     }
   ],
   "logoGuidelines": {
